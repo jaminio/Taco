@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://tacobot.app/logo_happy.svg" alt="logo" height=200 />
   <hr>
+  [![DeepScan grade](https://deepscan.io/api/teams/11934/projects/14875/branches/287017/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11934&pid=14875&bid=287017)
   
   # Taco
 
